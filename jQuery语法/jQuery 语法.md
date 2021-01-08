@@ -485,7 +485,7 @@ $("p").css({"background-color":"yellow","font-size":"200%"});//为所有匹配�
 
 ##### 尺寸方法
 
-![img_jquerydim](image/img_jquerydim-1610094810146.gif)
+![img_jquerydim](image/img_jquerydim.gif)
 
 ###### width() 方法
 
