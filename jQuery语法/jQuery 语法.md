@@ -55,8 +55,11 @@ window.onload = function () {
 
 ##### jQuery 入口函数与 JavaScript 入口函数的区别
 
--  jQuery 的入口函数是在 html 所有标签(DOM)都加载之后，就会去执行。
--  JavaScript 的 window.onload 事件是等到所有内容，包括外部图片之类的文件加载完后，才会执行。![load和ready区别](image/load和ready区别.jpg)
+- jQuery 的入口函数是在 html 所有标签(DOM)都加载之后，就会去执行。
+
+- JavaScript 的 window.onload 事件是等到所有内容，包括外部图片之类的文件加载完后，才会执行。
+
+  ![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/load%E5%92%8Cready%E5%8C%BA%E5%88%AB.jpg)
 
 <div style="page-break-after: always;"></div>
 
@@ -386,7 +389,7 @@ $("img").after("在后面添加文本");
 $("img").before("在前面添加文本");
 ```
 
-![插入元素区别](image/插入元素区别.jpg)
+![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/%E6%8F%92%E5%85%A5%E5%85%83%E7%B4%A0%E5%8C%BA%E5%88%AB.jpg)
 
 ##### 删除元素
 
