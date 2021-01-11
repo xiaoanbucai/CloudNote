@@ -41,14 +41,6 @@ DOM遍历和范围：定义了遍历和操作文档树的接口
 
 <div style="page-break-after: always;"></div>
 
-![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/css%E7%9B%92%E5%AD%90%E5%B0%BA%E5%AF%B8.jpg)
-
-![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/css%E7%9B%92%E5%AD%90%E5%B0%BA%E5%AF%B8.jpg)
-
-![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/css%E7%9B%92%E5%AD%90%E5%B0%BA%E5%AF%B8.jpg)
-
-![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/css%E7%9B%92%E5%AD%90%E5%B0%BA%E5%AF%B8.jpg)
-
 ## 3.5.3 布尔操作符
 
 逻辑非由一个（！）表示。逻辑非操作符首先会将它的操作数转换为一个布尔值，然后对其求反。
