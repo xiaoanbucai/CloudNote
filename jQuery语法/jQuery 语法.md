@@ -59,7 +59,7 @@ window.onload = function () {
 
 - JavaScript 的 window.onload 事件是等到所有内容，包括外部图片之类的文件加载完后，才会执行。
 
-  ![](https://raw.githubusercontent.com/xiaoanbucai/CloudNote/master/image/load%E5%92%8Cready%E5%8C%BA%E5%88%AB.jpg)
+  ![](https://github.com/xiaoanbucai/CloudNote/blob/master/image/load%E5%92%8Cready%E5%8C%BA%E5%88%AB.jpg)
 
 <div style="page-break-after: always;"></div>
 
