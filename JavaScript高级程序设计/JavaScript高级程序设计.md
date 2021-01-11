@@ -1,8 +1,3 @@
-[TOC]
-
-
-<div style="page-break-after: always;"></div>
-
 
 ## 第一章 JavaScript简介
 
